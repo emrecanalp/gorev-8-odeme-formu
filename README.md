@@ -6,7 +6,7 @@ Bu repo, ödev kapsamında istenen görseli **piksel seviyesinde** karşılayan 
 
 Kurulum
 
-# Balımlılıkları yükle
+# Bağımlılıkları yükle
 npm install
 
 # Geliştirme sunucusunu başlat
